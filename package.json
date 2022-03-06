@@ -1,0 +1,27 @@
+{
+  "name": "backend-demo",
+  "version": "1.0.0",
+  "description": "This is my first project in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsamaPF/backend-demo.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Osama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsamaPF/backend-demo/issues"
+  },
+  "homepage": "https://github.com/OsamaPF/backend-demo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
